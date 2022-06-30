@@ -28,11 +28,11 @@
         "kazap-academy"
     ],
     "repository": {
-        "url": "https://github.com/Pedro-Kazap/vue-components-pack"
+        "url": "https://github.com/Pedro-Kazap/kazap-academy-v3"
     },
-    "homepage": "https://github.com/Pedro-Kazap/vue-components-pack",
+    "homepage": "https://github.com/Pedro-Kazap/kazap-academy-v3",
     "bugs": {
-        "url": "https://github.com/Pedro-Kazap/vue-components-pack/issues"
+        "url": "https://github.com/Pedro-Kazap/kazap-academy-v3/issues"
     },
     "license": "MIT"
 }
