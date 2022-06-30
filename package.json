@@ -1,8 +1,8 @@
 {
     "name": "kazap-academy-v3",
     "displayName": "kazap-academy-v3",
-    "description": "pack de extensoes para aulas do kazap academy 2022",
-    "version": "0.0.1",
+    "description": "Pack de extensoes para aulas do kazap academy 2022",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -21,9 +21,15 @@
         "rayhanw.erb-helpers",
         "esbenp.prettier-vscode",
         "Syler.sass-indented",
-        "PKief.material-icon-theme"
+        "PKief.material-icon-theme",
+        "dracula-theme.theme-dracula"
     ],
     "publisher": "PedroDalben",
+    "icon": "images/logo.png",
+    "galleryBanner": {
+        "color": "#030518",
+        "theme": "dark"
+    },
     "keywords": [
         "kazap-academy"
     ],
