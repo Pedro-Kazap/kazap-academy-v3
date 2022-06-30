@@ -1,0 +1,38 @@
+{
+    "name": "kazap-academy-v3",
+    "displayName": "kazap-academy-v3",
+    "description": "pack de extensoes para aulas do kazap academy 2022",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "formulahendry.auto-close-tag",
+        "rebornix.Ruby",
+        "wingrunr21.vscode-ruby",
+        "hridoy.rails-snippets",
+        "ecmel.vscode-html-css",
+        "eamodio.gitlens",
+        "shardulm94.trailing-spaces",
+        "vortizhe.simple-ruby-erb",
+        "rayhanw.erb-helpers",
+        "esbenp.prettier-vscode",
+        "Syler.sass-indented",
+        "PKief.material-icon-theme"
+    ],
+    "publisher": "PedroDalben",
+    "keywords": [
+        "kazap-academy"
+    ],
+    "repository": {
+        "url": "https://github.com/Pedro-Kazap/vue-components-pack"
+    },
+    "homepage": "https://github.com/Pedro-Kazap/vue-components-pack",
+    "bugs": {
+        "url": "https://github.com/Pedro-Kazap/vue-components-pack/issues"
+    },
+    "license": "MIT"
+}
